@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# jack_audio_5pin
+#
+DEF jack_audio_5pin J 0 40 Y Y 1 F N
+F0 "J" 175 -100 60 H V C CNN
+F1 "jack_audio_5pin" 50 -725 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S 325 -150 425 -575 0 1 0 N
+P 2 0 1 0 0 -400 0 -500 N
+P 2 0 1 0 0 -275 0 -200 N
+P 3 0 1 0 0 -650 375 -650 375 -575 N
+P 4 0 1 0 -27 -484 20 -484 0 -517 -26 -484 F
+P 4 0 1 0 0 -525 150 -525 250 -400 275 -425 N
+P 4 0 1 0 0 -157 -31 -205 27 -205 1 -157 F
+P 4 0 1 0 0 -150 50 -150 150 -275 175 -250 N
+X ~ 1 -200 -650 200 R 50 50 1 1 I
+X ~ 2 -200 -525 200 R 50 50 1 1 I
+X ~ 3 -200 -400 200 R 50 50 1 1 I
+X ~ 4 -200 -275 200 R 50 50 1 1 I
+X ~ 5 -200 -150 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
