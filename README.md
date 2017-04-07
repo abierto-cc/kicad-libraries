@@ -3,7 +3,7 @@ Librerías de componentes usados en los proyectos KiCAD hechos en Abierto
 
 
 En estas carpetas vamos a ir añadiendo los componentes que vayamos creando para nuestros proyectos:
-eeschema_libraries --> Creación de esquemáticos
+eeschema_libraries --> Creación de esquemáticos \n
 footprints --> Hueyas para PCB
 3D --> Renderizado 3D
 
