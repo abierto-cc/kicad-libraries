@@ -1,4 +1,4 @@
-(module mlf32 (layer F.Cu) (tedit 598B0B19)
+(module mlf32_th (layer F.Cu) (tedit 598B19A8)
   (fp_text reference REF** (at 0 3.4036) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -46,4 +46,5 @@
   (pad 3 smd rect (at -2.35 -0.75) (size 0.7 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 23 smd rect (at 2.35 -1.25) (size 0.7 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.35 -1.75) (size 0.7 0.3) (layers F.Cu F.Paste F.Mask))
+  (pad 33 smd rect (at 0 0) (size 3.2 3.2) (layers F.Cu F.Paste F.Mask))
 )
